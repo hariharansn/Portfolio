@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b4fe56da.css",
+    "main.js": "/Portfolio/static/js/main.89ed7f97.js",
+    "static/media/Image6.jpg": "/Portfolio/static/media/Image6.45e85e06a1170da9b202.jpg",
+    "static/media/HARIHARAN S.pdf": "/Portfolio/static/media/HARIHARAN S.3f8d7441569048f0e2de.pdf",
+    "static/media/Image8.jpg": "/Portfolio/static/media/Image8.11d1660305fb3a0eccbb.jpg",
+    "static/media/Image7.jpg": "/Portfolio/static/media/Image7.0b8fe17d0470aed3b441.jpg",
+    "static/media/Image4.jpg": "/Portfolio/static/media/Image4.34b17b1450063151b558.jpg",
+    "static/media/Image3.jpg": "/Portfolio/static/media/Image3.d791e05c88906c38fe25.jpg",
+    "static/media/Image2.jpg": "/Portfolio/static/media/Image2.58d6e927a2e851b88d82.jpg",
+    "static/media/Image5.jpg": "/Portfolio/static/media/Image5.d6bc489db655f3349edd.jpg",
+    "static/media/bg.jpeg": "/Portfolio/static/media/bg.1a97868b8d7bffa37e83.jpeg",
+    "static/media/Image1.jpg": "/Portfolio/static/media/Image1.76a3389d0c63738097e0.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.b4fe56da.css.map": "/Portfolio/static/css/main.b4fe56da.css.map",
+    "main.89ed7f97.js.map": "/Portfolio/static/js/main.89ed7f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4fe56da.css",
+    "static/js/main.89ed7f97.js"
+  ]
+}
