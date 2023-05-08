@@ -1,0 +1,121 @@
+#education > h2
+{
+  text-align: center;
+
+}
+
+#education > h5 {
+  
+  text-align: center;
+
+}
+.text-center {
+padding-top: 20px;
+  text-align: center;
+}
+
+
+
+
+.tab-container {
+    background:  rgba(0, 0, 0, 0.3);
+    width: max-content;
+    padding: 10px;
+    border-radius: 10px;
+    z-index: 2;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 30px;
+    display: flex;
+    gap: 0.8rem;
+   
+    backdrop-filter: blur(15px);
+  
+  }
+  
+
+
+.tab-active-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
+
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+  
+  .tab.active {
+    background-color: var(--first-color);
+    color: #fff;
+
+ 
+  }
+  
+  .tab-content-container {
+    
+  position: relative; 
+    margin-top: 30px;
+    
+  
+    width: max-content;
+
+   
+    z-index: 2;
+   
+    left: 50%;
+    transform: translateX(-50%);
+   height: 250px;
+    display: flex;
+    gap: 0.8rem;
+    border-radius: 1rem   1rem  1rem 1rem ;
+    backdrop-filter: blur(15px);
+  
+  }
+  
+
+  .tab-content {
+    background:  rgba(0, 0, 0, 0.3);
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    padding: 1rem;
+            stroke-linecap: round;
+
+    text-align: center;
+     backdrop-filter: blur(15px);
+     transition: var(--transition);
+  }
+  
+  .tab-content:hover {
+    background: transparent;
+    border-color: var(--first-color);
+    cursor:default; }
+
+    .progress-ring__circle {
+        stroke:var(--first-color);
+        fill: transparent;
+        stroke-width: 2;
+
+        transform: rotate(-90deg);
+        transform-origin: 50% 50%;
+        transition: stroke-dasharray 0.3s ease-out;
+      }
+
+      
+      .progress-ring__text {
+        font-size: 5px;
+        fill: var(--first-color);
+      }
+
+
+      
